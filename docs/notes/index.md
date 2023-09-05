@@ -6,6 +6,8 @@
 
 - Effective and Systematic Testing (2023-08-29) [[Worksheet]](./notes/8_29.pdf) 
 
-- Intro to Maven and JUnit (2023-08-31) [[Github Link]](https://classroom.github.com/a/4026OMRf)
+- Intro to Maven and JUnit (2023-08-31) [[Worksheet]](./notes/8_31.pdf)[[Github Link]](https://classroom.github.com/a/4026OMRf)
+
+- Specification-based testing (2023-09-05) [[Worksheet]](./notes/9_5.pdf)
 
 
