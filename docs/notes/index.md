@@ -10,4 +10,6 @@
 
 - Specification-based testing (2023-09-05) [[Worksheet]](./notes/9_5.pdf)
 
+- Parameterized testing (2023-09-07) [[Github Link]](https://classroom.github.com/a/nQU90pRm)
+
 
