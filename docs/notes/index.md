@@ -12,4 +12,5 @@
 
 - Parameterized testing (2023-09-07) [[Github Link]](https://classroom.github.com/a/nQU90pRm)
 
+- Structural Testing and Code Coverage (2023-09-12) [[Worksheet]](./notes/9_12.pdf)
 
