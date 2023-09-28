@@ -17,3 +17,5 @@
 - Structural Testing and Code Coverage (2023-09-14) [[Github Link]](https://classroom.github.com/a/GksgnPgQ)
 
 - Designing Contracts (2023-09-26) [[Worksheet]](./notes/9_26.pdf)
+
+- Designing Contracts (2023-09-28) [[Github Link]](https://classroom.github.com/a/OUn9v2_l)
