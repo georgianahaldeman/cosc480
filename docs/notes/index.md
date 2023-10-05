@@ -10,7 +10,7 @@
 
 - Specification-based testing (2023-09-05) [[Worksheet]](./notes/9_5.pdf)
 
-- Parameterized testing (2023-09-07) [[Github Link]](https://classroom.github.com/a/nQU90pRm)
+- Specification-based testing and Parameterized Tests (2023-09-07) [[Github Link]](https://classroom.github.com/a/nQU90pRm)
 
 - Structural Testing and Code Coverage (2023-09-12) [[Worksheet]](./notes/9_12.pdf)
 
@@ -21,3 +21,7 @@
 - Designing Contracts (2023-09-28) [[Github Link]](https://classroom.github.com/a/OUn9v2_l)
 
 - Property-based Testing (2023-10-03) [[Worksheet]](./notes/10_3.pdf)
+
+- Property-based Testing (2023-10-05) [[Github Link]](https://classroom.github.com/a/0WUGZzPA)
+
+
