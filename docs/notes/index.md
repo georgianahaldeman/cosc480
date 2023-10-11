@@ -16,11 +16,11 @@
 
 - Structural Testing and Code Coverage (2023-09-14) [[Github Link]](https://classroom.github.com/a/GksgnPgQ)
 
-- Designing Contracts (2023-09-26) [[Worksheet]](./notes/9_26.pdf)
+- Designing Contracts (2023-09-26) [[Worksheet]](./notes/9_26.pdf)[[Notes]](./answers/9_26_answers.pdf)
 
 - Designing Contracts (2023-09-28) [[Github Link]](https://classroom.github.com/a/OUn9v2_l)
 
-- Property-based Testing (2023-10-03) [[Worksheet]](./notes/10_3.pdf)
+- Property-based Testing (2023-10-03) [[Worksheet]](./notes/10_3.pdf) [[Notes]](./answers/10_3_answers.pdf)
 
 - Property-based Testing (2023-10-05) [[Github Link]](https://classroom.github.com/a/0WUGZzPA)
 
