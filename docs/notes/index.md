@@ -25,3 +25,5 @@
 - Property-based Testing (2023-10-05) [[Github Link]](https://classroom.github.com/a/0WUGZzPA)
 
 - Midterm Practice (2023-10-12) [[Worksheet]](./notes/10_12.pdf) [[Notes]](./answers/10_12_answers.pdf)
+
+- Midterm (2023-10-17) [[Midterm]](./notes/10_17.pdf) [[Solutions]](./answers/10_17_answers.pdf)
