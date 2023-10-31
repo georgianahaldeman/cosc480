@@ -28,4 +28,6 @@
 
 - Midterm (2023-10-17) [[Midterm]](./notes/10_17.pdf) [[Solutions]](./answers/10_17_answers.pdf)
 
-- Test doubles and mocks (2023-10-26) [[Worksheet]](./notes/10_26.pdf)
+- Test doubles and mocks I (2023-10-26) [[Worksheet]](./notes/10_26.pdf)
+
+- Test doubles and mocks II(2023-10-31) [[Worksheet]](./notes/10_31.pdf)
