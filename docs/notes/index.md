@@ -31,3 +31,5 @@
 - Test doubles and mocks I (2023-10-26) [[Worksheet]](./notes/10_26.pdf)
 
 - Test doubles and mocks II(2023-10-31) [[Worksheet]](./notes/10_31.pdf)
+
+- Project Milestone 1 (2023-11-02) [[Github Link]] (https://classroom.github.com/a/qcBnBcbC)
