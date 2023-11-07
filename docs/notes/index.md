@@ -33,3 +33,5 @@
 - Test doubles and mocks II(2023-10-31) [[Worksheet]](./notes/10_31.pdf)
 
 - Project Milestone 1 (2023-11-02) [[Github Link]](https://classroom.github.com/a/qcBnBcbC)
+
+- Designing for Testability (2023-11-07) [[Worksheet]](./notes/11_7.pdf)
