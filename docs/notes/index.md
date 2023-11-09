@@ -34,3 +34,5 @@
 - Project Milestone 1 (2023-11-02) [[Github Link]](https://classroom.github.com/a/qcBnBcbC)
 
 - Designing for Testability (2023-11-07) [[Worksheet]](./notes/11_7.pdf) [[Notes]](./answers/11_7_answers.pdf)
+
+- Practice Problems (2023-11-09) [[Worksheet]](./notes/11_9.pdf)
