@@ -31,6 +31,7 @@
 - Test doubles and mocks I (2023-10-26) [[Worksheet]](./notes/10_26.pdf) [[Notes]](./answers/10_26_answers.pdf)
 
 - Test doubles and mocks II(2023-10-31) [[Worksheet]](./notes/10_31.pdf) [[Notes]](./answers/10_31_answers.pdf)
+
 - Project Milestone 1 (2023-11-02) [[Github Link]](https://classroom.github.com/a/qcBnBcbC)
 
 - Designing for Testability (2023-11-07) [[Worksheet]](./notes/11_7.pdf) [[Notes]](./answers/11_7_answers.pdf)
@@ -38,3 +39,5 @@
 - Practice Problems (2023-11-09) [[Worksheet]](./notes/11_9.pdf)
 
 - Designing for Testability and Integration Test (2023-11-14) [[Github Link]](https://classroom.github.com/a/dPmvkiQH)  [[Worksheet]](./notes/11_14.pdf)
+
+- Project Milestone 2 (2023-11-16) [[Github Link]](https://classroom.github.com/a/43ejEo-3)
