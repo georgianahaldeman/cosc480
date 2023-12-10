@@ -36,12 +36,12 @@
 
 - Designing for Testability (2023-11-07) [[Worksheet]](./notes/11_7.pdf) [[Notes]](./answers/11_7_answers.pdf)
 
-- Practice Problems (2023-11-09) [[Worksheet]](./notes/11_9.pdf)
+- Practice Problems (2023-11-09) [[Worksheet]](./notes/11_9.pdf) [[Notes]](./answers/11_9_answers.pdf)
 
-- Designing for Testability and Integration Test (2023-11-14) [[Github Link]](https://classroom.github.com/a/dPmvkiQH)  [[Worksheet]](./notes/11_14.pdf)
+- Designing for Testability and Integration Test (2023-11-14) [[Github Link]](https://classroom.github.com/a/dPmvkiQH)  [[Worksheet]](./notes/11_14.pdf) [[Notes]](./answers/11_14_answers.pdf)
 
 - Project Milestone 2 (2023-11-16) [[Github Link]](https://classroom.github.com/a/43ejEo-3)
 
-- Spring-Boot framework (2023-11-28) [[Worksheet]](https://docs.google.com/document/d/1Zkt23V8gh2piGuXj02ROwJYdvN1JHKl_hDlElRTDdLE/edit?usp=sharing)
+- Spring-Boot framework (2023-11-28) [[Instructions]](https://docs.google.com/document/d/1Zkt23V8gh2piGuXj02ROwJYdvN1JHKl_hDlElRTDdLE/edit?usp=sharing)
 
 - Introduction to Selenium (2023-11-30) [[Github Link]](https://classroom.github.com/a/xMYtxCec) 
