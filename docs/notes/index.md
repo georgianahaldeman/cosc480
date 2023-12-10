@@ -45,3 +45,5 @@
 - Spring-Boot framework (2023-11-28) [[Instructions]](https://docs.google.com/document/d/1Zkt23V8gh2piGuXj02ROwJYdvN1JHKl_hDlElRTDdLE/edit?usp=sharing)
 
 - Introduction to Selenium (2023-11-30) [[Github Link]](https://classroom.github.com/a/xMYtxCec) 
+
+- Project Milestone 3 (due 2023-12-10 at 11PM) [[Github Link]](https://classroom.github.com/a/uazbnAf8)
